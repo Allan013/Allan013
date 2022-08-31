@@ -1,4 +1,4 @@
-### Olá! Eu sou Alan Sousa 👋
+### Olá! Eu sou Alan 👋
 
 <div align="center">
   <a href="https://github.com/Allan013">
